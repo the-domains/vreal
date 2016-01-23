@@ -1,0 +1,14 @@
+layout_spectrum: 0.6451904
+typography_spectrum: 0.877879
+color:
+  saturation: 0.2100133
+  lightness: 0.1506975
+  brandStrength: 0.32748
+  rhythmicContrast: 0.8141974
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Vreal
